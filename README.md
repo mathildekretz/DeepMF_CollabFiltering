@@ -10,7 +10,7 @@ This project is the first homework assignment for the Data Science Lab class of 
 - Enhanced collaborative filtering through matrix factorization employing various gradient descent methods, providing a comprehensive exploration of their impact on the factorization process.
 - Introduced a novel approach named DeepMF (Deep Matrix Factorization), innovatively transposing the principles of deep learning into matrix factorization. This technique operates without neural networks, utilizing recursive factorization of successive error matrices to adapt its primal optimization strategy.
 - Conducted a detailed analysis and implementation of DeepMF, demonstrating its effectiveness in dynamically adapting to evolving error structures and showcasing its potential advantages over traditional matrix factorization techniques.
-- 
+
 ## General information
 
 The report can be viewed in the [report.pdf](report.pdf) file. It answers to the instructions given in the [assignment_1_slides_instructions.pdf](assignment_1_slides_instructions.pdf) file provided by the professors.
