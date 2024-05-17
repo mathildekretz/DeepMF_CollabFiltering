@@ -55,6 +55,7 @@ This project was a group project, and was made possible thanks to the collaborat
 
 - **Mathilde Kretz**, *IASD Master Program 2023/2024 student, at PSL Research University*
 - **Thomas Boudras**, *IASD Master Program 2023/2024 student, at PSL Research University*
+- **Alexandre Ngau**, *IASD Master Program 2023/2024 student, at PSL Research University*
 
 ### License
 
